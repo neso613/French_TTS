@@ -1,5 +1,6 @@
 # French_TTS
-This repository is a collection of French TTS Models in TFLite
+This repository is a collection of French TTS Models in TFLite.\
+Adding TFlite models is the future work.
 
 ## Installation
 - Python 3.6+
