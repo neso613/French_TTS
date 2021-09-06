@@ -6,3 +6,4 @@ End-to-End TTS is the future work.
 
 ### MB-MelGAN Vocoder Model
 - [MB-MelGAN Tensorflow Model](https://drive.google.com/drive/folders/168YpeTGNpAWdSFUeN23tljtCMVAEU7nB?usp=sharing)
+- [MB-MelGAN TFLite Model](https://drive.google.com/file/d/1O8qV9oJaUYJFHLrrn-sXnk0BfNATi9ae/view?usp=sharing)
