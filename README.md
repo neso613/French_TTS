@@ -3,7 +3,6 @@ This repository is a collection of French TTS Models in TFLite.\
 Adding TFlite models is the future work.
 
 ## Installation
-- Python 3.6+
 - pip3 install -r requirements.txt
 
 ## Models Architectute
