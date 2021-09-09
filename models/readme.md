@@ -3,6 +3,7 @@ End-to-End TTS is the future work.
 
 ### Specotrogram Generator Model
 - [Tacotron2 Tensorflow Model](https://drive.google.com/drive/folders/1vsobmPlw82z8_K7P3H8gT5Y2Ny7kYE42?usp=sharing)
+- [Tacotron2 TFLite Model](https://drive.google.com/file/d/1Fpp8ExD6SGk6gk2TsKvSQNnhL4bdlBnc/view?usp=sharing)
 
 ### Vocoder Models
 - [MB-MelGAN Tensorflow Model](https://drive.google.com/drive/folders/168YpeTGNpAWdSFUeN23tljtCMVAEU7nB?usp=sharing)
