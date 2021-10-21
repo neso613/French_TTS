@@ -1,6 +1,7 @@
 # French_TTS
 This repository is a collection of French TTS Models in TFLite.\
-TFlite models support is the future work.
+TFlite models support is the future work.\
+pip wheel is future work.
 
 ## Installation
 - pip3 install -r requirements.txt
